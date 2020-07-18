@@ -5,13 +5,14 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Data Science 
-🌱 I’m currently learning Machine Learning , Deep Learning 
+- 🔭 I’m currently working on Data Science 
+- 🌱 I’m currently learning Machine Learning , Deep Learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: Twitter  
+- 📫 How to reach me: Twitter  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PaareshC)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PaareshC&show_icons=true)
