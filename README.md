@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...     
 - ⚡ Fun fact: ...
 -->
-### - 🔭 I’m currently working on Data Science
-### - 🌱 I’m currently learning Machine Learning , Deep Learning
+### - 🌱 I’m currently learning Data Science 
 ### - 📫 How to reach me: Twitter
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PaareshC&show_icons=true)
